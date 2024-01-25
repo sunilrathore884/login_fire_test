@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887970321487",
+    "project_id": "loginfiretest-3ea74",
+    "storage_bucket": "loginfiretest-3ea74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887970321487:android:fc3d114c6de59a21ba463a",
+        "android_client_info": {
+          "package_name": "com.example.login_fire_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLt3s0BDanC4LEbINCVvw8ipzDqTzB2rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
